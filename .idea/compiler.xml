@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="helloHippo-bootstrap-configuration" />
+        <module name="helloHippo-bootstrap-content" />
+        <module name="helloHippo-bootstrap-webfiles" />
+        <module name="helloHippo-cms" />
+        <module name="helloHippo-essentials" />
+        <module name="helloHippo-site" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="helloHippo" target="1.5" />
+      <module name="helloHippo-bootstrap" target="1.5" />
+      <module name="helloHippo-bootstrap-configuration" target="1.8" />
+      <module name="helloHippo-bootstrap-content" target="1.8" />
+      <module name="helloHippo-bootstrap-webfiles" target="1.8" />
+      <module name="helloHippo-cms" target="1.8" />
+      <module name="helloHippo-essentials" target="1.8" />
+      <module name="helloHippo-site" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
